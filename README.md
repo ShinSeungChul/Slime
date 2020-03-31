@@ -18,4 +18,4 @@
 - - -
 ### UI
 
-![Alt 메인화면](/img/image.png)
+<img src="/img/slime_main.jpg" width="360px" height="480px" title="메인화면" alt="Main"></img><br/>
