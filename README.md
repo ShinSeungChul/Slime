@@ -18,4 +18,18 @@
 - - -
 ### UI
 
-<img src="/img/slime_main.jpg" width="360px" height="480px" title="메인화면" alt="Main"></img><br/>
+<img src="/img/slime_main.jpg" width="360px" height="480px" title="메인화면" alt="Main"></img>
+<img src="/img/slime_mission.jpg" width="360px" height="480px" title="미션팝업" alt="Mission"></img></br>
+<img src="/img/slime_store.jpg" width="360px" height="480px" title="상점화면" alt="Store"></img>
+<img src="/img/slime_pause.jpg" width="360px" height="480px" title="일시정지팝업" alt="Pause"></img></br>
+<img src="/img/slime_stage13.webp" width="360px" height="480px" title="Stage13" alt="Stage13"></img>
+<img src="/img/slime_stage44.webp" width="360px" height="480px" title="Stage44" alt="Stage44"></img></br>
+- - - 
+
+### 플레이 영상
+
+
+- - -
+
+### 엔딩 애니메이션
+
