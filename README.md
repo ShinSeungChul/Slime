@@ -13,7 +13,7 @@
 - - -
 
 ### 시작 애니메이션
-
+[![Video Label](http://img.youtube.com/vi/w5hAHB-yZq4/0.jpg)](https://youtu.be/w5hAHB-yZq4?t=0s)
 
 - - -
 ### UI
