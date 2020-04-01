@@ -13,6 +13,9 @@
 - - -
 
 ### 시작 애니메이션
+
+####클릭하면 실행됩니다.
+
 [![Video Label](http://img.youtube.com/vi/w5hAHB-yZq4/0.jpg)](https://youtu.be/w5hAHB-yZq4?t=0s)
 
 - - -
@@ -28,11 +31,14 @@
 
 ### 플레이 영상
 
+####클릭하면 실행됩니다.
 
 [![Video Label](http://img.youtube.com/vi/EMmTcVZMjn4/0.jpg)](https://youtu.be/EMmTcVZMjn4?t=0s)
 
 - - -
 
 ### 엔딩 애니메이션
+
+####클릭하면 실행됩니다.
 
 [![Video Label](http://img.youtube.com/vi/EMmTcVZMjn4/0.jpg)](https://youtu.be/EMmTcVZMjn4?t=0s)
