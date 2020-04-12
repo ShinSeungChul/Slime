@@ -2,7 +2,50 @@
 
 
 ## 앱 소개
-- - -
+
+### 인게임 UI
+
+<table>
+  <tr>
+    <th align="center">
+       <img width="200" alt="1" src="https://user-images.githubusercontent.com/11826495/79063466-d8319980-7cdc-11ea-9037-5adc017e8300.gif"/>
+       <br><br>[Change Hat] 
+    </th>
+     <th align="center">
+      <img width="200" alt="1" src="https://user-images.githubusercontent.com/11826495/79063498-0616de00-7cdd-11ea-922e-59e584736025.gif"/>
+       <br><br>[Clear Mission]
+    </th>
+     <th align="center">
+       <img width="200" alt="1" src="https://user-images.githubusercontent.com/11826495/79063165-ed0d2d80-7cda-11ea-89e2-cc625d6eb522.gif"/>
+       <br><br>[Jump]
+     </th>
+     <th align="center">
+      <img width="200" alt="1" src="https://user-images.githubusercontent.com/11826495/79063296-a7049980-7cdb-11ea-9940-14bb0eb48014.gif"/>
+       <br><br>[Moving Thorn]
+    </th>
+  </tr>
+</br>
+  <tr>
+      <th align="center">
+       <img width="200" alt="1" src="https://user-images.githubusercontent.com/11826495/79063092-8a1b9680-7cda-11ea-875e-d82b9a100f8f.gif"/>
+       <br><br>[Switch] 
+    </th>
+     <th align="center">
+      <img width="200" alt="1" src="https://user-images.githubusercontent.com/11826495/79063191-247bda00-7cdb-11ea-8c13-ddfac387e7cc.gif"/>
+       <br><br>[Reverse]
+    </th>
+ <th align="center">
+       <img width="200" alt="1" src="https://user-images.githubusercontent.com/11826495/79063355-2befb300-7cdc-11ea-943c-dc1bb4a3ad1f.gif"/>
+       <br><br>[Select Stage]
+     </th>
+     <th align="center">
+      <img width="200" alt="1" src="https://user-images.githubusercontent.com/11826495/79063338-fd71d800-7cdb-11ea-890a-b5b673fc1249.gif"/>
+       <br><br>[Death]
+    </th>
+  </tr>
+</table>
+
+
 ### Unity를 사용하여 C#으로 개발한 킬링 타임용 모바일 게임
 
 * 지하철, 버스 등의 이동 중 간단히 플레이할 수 있습니다.
