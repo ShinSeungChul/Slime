@@ -1,6 +1,8 @@
 # Slime
 <img src="/img/Slime_Icon.PNG" width="250" height="250" align="center"/>
 
+구글 플레이 스토어 : https://play.google.com/store/apps/details?id=com.jjs
+
 ## 앱 소개
 
 ### Unity를 사용하여 C#으로 개발한 킬링 타임용 모바일 게임
