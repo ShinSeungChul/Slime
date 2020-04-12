@@ -1,5 +1,5 @@
 # SlimeUnity
-
+<img src="/Slime_Icon.png" width="250" height="250" align="center"/>
 
 ## 앱 소개
 
