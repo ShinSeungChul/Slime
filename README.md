@@ -128,3 +128,9 @@
 #### 클릭하면 실행됩니다.
 
 [![Video Label](http://img.youtube.com/vi/EMmTcVZMjn4/0.jpg)](https://youtu.be/EMmTcVZMjn4?t=0s)
+
+- - -
+
+### 인게임 영상
+[![Video Label](http://img.youtube.com/vi/3GdrOGBC7Tg/0.jpg)](https://www.youtube.com/watch?v=3GdrOGBC7Tg)
+
